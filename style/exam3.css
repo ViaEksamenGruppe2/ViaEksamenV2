@@ -1,13 +1,14 @@
 h1 {
     font-family: "VIA regular" !important;
     color: #414141;
-    height: 0.6em;
+    height: auto;
 }
 
 h2 {
     font-family: "VIA regular" !important;
     color: #414141;
-    height: 0.6em;
+    height: auto;
+
     font-weight: 100;
     margin-bottom: .8em !important;
 }

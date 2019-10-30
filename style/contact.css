@@ -38,16 +38,16 @@ h1{
     transform: translate(-1em, -1em);
 }
 #oliver .pic{
-    background-image: url(/img/oliver.jpg);
+    background-image: url(img/oliver.jpg);
 }
 #mark .pic{
-    background-image: url(/img/mark.jpg);
+    background-image: url(img/mark.jpg);
 }
 #markus .pic{
-    background-image: url(/img/markus.jpg);
+    background-image: url(img/markus.jpg);
 }
 #benjamin .pic{
-    background-image: url(/img/benjamin.jpg);
+    background-image: url(img/benjamin.jpg);
 }
 .back{
     position: absolute;
